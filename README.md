@@ -13,7 +13,7 @@
 ### Tech Stack
   
 ![Programming Languages](https://skillicons.dev/icons?i=java,javascript,python)
-![](https://skillicons.dev/icons?i=html,tailwindcss,react,nodejs,express,mysql,fastapi,mongodb,redis,pytorch,tensorflow,scikitlearn)
+![](https://skillicons.dev/icons?i=react,nodejs,express,mysql,fastapi,mongodb,redis,pytorch,tensorflow,scikitlearn)
 ![](https://skillicons.dev/icons?i=git,figma)
 
 ![](https://github-readme-stats.vercel.app/api?username=i-wav&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&border_radius=10)
