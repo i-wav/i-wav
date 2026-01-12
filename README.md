@@ -16,8 +16,8 @@
 ![](https://skillicons.dev/icons?i=react,nodejs,express,mysql,fastapi,mongodb,redis,pytorch,tensorflow,scikitlearn)
 ![](https://skillicons.dev/icons?i=git,figma)
 
-![](https://github-readme-stats.vercel.app/api?username=i-wav&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&border_radius=10)
-![](https://github-readme-streak-stats.herokuapp.com/?user=i-wav&theme=radical&hide_border=false&border_radius=10)           ![](https://github-readme-stats.vercel.app/api/top-langs/?username=i-wav&theme=radical&hide_border=false&include_all_commits=true&border_radius=10&count_private=true&layout=compact)
+<!--![](https://github-readme-stats.vercel.app/api?username=i-wav&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&border_radius=10)
+![](https://github-readme-streak-stats.herokuapp.com/?user=i-wav&theme=radical&hide_border=false&border_radius=10)           ![](https://github-readme-stats.vercel.app/api/top-langs/?username=i-wav&theme=radical&hide_border=false&include_all_commits=true&border_radius=10&count_private=true&layout=compact)-->
 
 <!--## GitHub Trophies-->
 ![](https://github-profile-trophy.vercel.app/?username=i-wav&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
